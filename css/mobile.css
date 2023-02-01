@@ -1,0 +1,57 @@
+#navbar {
+    height: 210px;
+    position: fixed;
+}
+
+#navbar-container {
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+#navbar-items {
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}
+
+#showcase {
+    height: 120vh;
+}
+
+#showcace-container {
+    padding: 20px;
+}
+
+#habilidades-container {
+    display: inline-block;
+}
+
+#about {
+    flex-direction: column;
+}
+
+#about-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#about-container button {
+    margin: 10px;
+}
+
+#project-container {
+    flex-direction: column;
+    margin: 7px;
+}
+
+#talk-to-me h5 {
+    text-align: center;
+}
+
+#talk-to-me p {
+    text-align: center;
+}
+
+.projectcard {
+    margin: 15px;
+}
